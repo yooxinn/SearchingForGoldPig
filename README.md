@@ -10,15 +10,18 @@
 <공룡종류 및 외형>
 
 ![image](https://user-images.githubusercontent.com/84578338/120950346-8de16680-c781-11eb-82b3-06082ed60540.png)
+
 기가노토사우루스
 : ‘거대한 남쪽 도마뱀’이란 의미를 가진 몸집이 가장 컸던 육식 공룡
 
 ![image](https://user-images.githubusercontent.com/84578338/120950358-920d8400-c781-11eb-949d-a42a328c3564.png)
+
 안킬로사우루스
 : 온몸이 딱딱한 뼈로 된 갑옷으로 덮여 있어 마치 탱크 같은 공룡
 
 
 ![image](https://user-images.githubusercontent.com/84578338/120950369-976ace80-c781-11eb-8198-899351644e9f.png)
+
 켄트로사우루스
 : ‘끝이 뾰족한 도마뱀’이란 의미를 가진 목부터 꼬리 끝까지 한 쌍으로 무시무시한 골창을 가지고 있는 공룡
 
