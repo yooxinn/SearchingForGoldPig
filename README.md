@@ -9,7 +9,14 @@
 
 <공룡종류 및 외형>
 
-![image](https://user-images.githubusercontent.com/84578338/120950185-36db9180-c781-11eb-85df-16087d0bfeb9.png)
+![image](https://user-images.githubusercontent.com/84578338/120950346-8de16680-c781-11eb-82b3-06082ed60540.png)
+기가노토사우루스
+
+![image](https://user-images.githubusercontent.com/84578338/120950358-920d8400-c781-11eb-949d-a42a328c3564.png)
+켄트로사우루스
+
+![image](https://user-images.githubusercontent.com/84578338/120950369-976ace80-c781-11eb-8198-899351644e9f.png)
+
 
 
 <게임개발환경>
