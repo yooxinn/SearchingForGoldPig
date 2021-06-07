@@ -30,7 +30,9 @@
 : ‘끝이 뾰족한 도마뱀’이란 의미를 가진 목부터 꼬리 끝까지 한 쌍으로 무시무시한 골창을 가지고 있는 공룡
 
 <배경이미지>
-![Uploading image.png…]()
+
+![image](https://user-images.githubusercontent.com/84578338/120951186-3ba14500-c783-11eb-9ca4-db71f88f45fd.png)
+
 
 
 <게임개발환경>
