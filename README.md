@@ -1,6 +1,7 @@
 # YonggaryWorld
 
 게임명: YonggaryWorld(YW)
+
 장르: 생존게임 시뮬레이션
 
 <제작의도>
