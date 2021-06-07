@@ -10,6 +10,7 @@
 <배경이미지>
 
 ![image](https://user-images.githubusercontent.com/84578338/120951186-3ba14500-c783-11eb-9ca4-db71f88f45fd.png)
+![image](https://user-images.githubusercontent.com/84578338/120951477-dac63c80-c783-11eb-8214-67419da79f40.png)
 
 
 <공룡종류 및 외형>
