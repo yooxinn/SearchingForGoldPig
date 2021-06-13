@@ -47,6 +47,8 @@ file:///C:/Users/user/Desktop/%EB%AA%A8%EB%B0%94%EC%9D%BC%EC%BB%A8%ED%85%90%EC%B
 
 
 <게임기능>
+
+
 천용덕은 고향인 창원을 구하기 위해 국산 양돈사업을 다시 활성화 시키고자 칠레산 돼지를 모두 잡고 황금돼지에게 바칠 재물을 구해야 한다. 
 필요한 재물이 다 구해지면 황금돼지가 나타나고 게임이 종료된다.
 
@@ -56,6 +58,8 @@ file:///C:/Users/user/Desktop/%EB%AA%A8%EB%B0%94%EC%9D%BC%EC%BB%A8%ED%85%90%EC%B
 
 
 <참고>
+
+
 https://keidy.tistory.com/254
 
 https://forum.unity.com/
