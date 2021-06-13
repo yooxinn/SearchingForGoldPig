@@ -17,6 +17,7 @@
 
 
 <실행명령 자료작성>
+인터페이스는 키보드와 마우스를 기본으로 이동, 점프, 달리기, 수집, 공격, 아이템사용이 가능하다.
 
 <게임개발환경>
 Unity 3D
@@ -25,9 +26,10 @@ Unity 3D
 PC
 
 <설치환경>
-UnityHub, Unity, Visual Studio
+UnityHub, Unity, Visual Studio, 그림판 3D
 
 <기획자료>
+file:///C:/Users/user/Desktop/%EB%AA%A8%EB%B0%94%EC%9D%BC%EC%BB%A8%ED%85%90%EC%B8%A0_%EA%B8%B0%EB%A7%90%EB%AF%B8%EC%85%985(%EC%84%9C%EC%B9%AD%ED%8F%AC%ED%94%BC%EA%B8%B0%EB%A7%A8).pdf
 
 <개발멤버>
 한평안, 조유진
@@ -45,3 +47,9 @@ UnityHub, Unity, Visual Studio
 
 
 <게임기능>
+
+<참고>
+https://keidy.tistory.com/254
+https://forum.unity.com/
+https://www.youtube.com/watch?v=LUnZHdcOe_M
+
