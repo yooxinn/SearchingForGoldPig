@@ -1,4 +1,4 @@
-# YonggaryWorld
+# SearchingForGoldPig
 
 게임명: SearchingForGoldPig(SFGP)
 
