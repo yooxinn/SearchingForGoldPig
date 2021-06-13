@@ -2,15 +2,17 @@
 
 게임명: YonggaryWorld(YW)
 
-장르: 생존게임 시뮬레이션
+장르: 생존게임 시뮬레이션, 어드벤처
 
 <제작의도>
 이 게임은 2080년 지구 식량 부족 문제가 극으로 달해 새로운 단백질 공급원으로 현생의 파충류를 유전자 조작시켜 공룡 부활 시켜 식량 문제를 해결 하고자 하였으나 유전자 변이 문제로 지능이 높아진 공룡들을 사육 농장을 탈출해 사람들을 공격하기에 이른다. 이를 막아내고자 인류와 공룡의 생존을 건 싸움이 시작된다.
 
 <배경이미지>
 
-![image](https://user-images.githubusercontent.com/84578338/120951186-3ba14500-c783-11eb-9ca4-db71f88f45fd.png)
-![image](https://user-images.githubusercontent.com/84578338/120951477-dac63c80-c783-11eb-8214-67419da79f40.png)
+<img width="506" alt="화면 캡처 2021-06-14 004332" src="https://user-images.githubusercontent.com/84578338/121815954-dafa9680-ccb3-11eb-8516-062684a75f2b.png">
+<img width="731" alt="화면 캡처 2021-06-14 010507" src="https://user-images.githubusercontent.com/84578338/121815963-e51c9500-ccb3-11eb-9f2b-ab6abf4c4127.png">
+<img width="725" alt="화면 캡처 2021-06-14 004606" src="https://user-images.githubusercontent.com/84578338/121815973-ec43a300-ccb3-11eb-8adc-7e61e33b8069.png">
+
 
 
 <공룡종류 및 외형>
