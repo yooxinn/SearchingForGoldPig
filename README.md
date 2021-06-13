@@ -12,7 +12,6 @@
 
 <배경이미지>
 
-<img width="506" alt="화면 캡처 2021-06-14 004332" src="https://user-images.githubusercontent.com/84578338/121815954-dafa9680-ccb3-11eb-8516-062684a75f2b.png">
 <img width="731" alt="화면 캡처 2021-06-14 010507" src="https://user-images.githubusercontent.com/84578338/121815963-e51c9500-ccb3-11eb-9f2b-ab6abf4c4127.png">
 <img width="725" alt="화면 캡처 2021-06-14 004606" src="https://user-images.githubusercontent.com/84578338/121815973-ec43a300-ccb3-11eb-8adc-7e61e33b8069.png">
 
