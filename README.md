@@ -1,6 +1,6 @@
-# SearchingForGoldPig
+# SearchingForPiggyman
 
-게임명: SearchingForGoldPig(SFGP)
+게임명: SearchingForPiggyman(SFGP)
 
 장르: 생존게임 시뮬레이션, 어드벤처
 
