@@ -34,4 +34,14 @@ UnityHub, Unity, Visual Studio
 
 <라이센스>
 
+![HP](https://user-images.githubusercontent.com/84578338/121816537-37ab8080-ccb7-11eb-89fa-91c6a62320c7.png)
+![HpH](https://user-images.githubusercontent.com/84578338/121816538-38dcad80-ccb7-11eb-84cf-8953f735e062.png)
+![HpN](https://user-images.githubusercontent.com/84578338/121816539-38dcad80-ccb7-11eb-8c3d-07593b8ec20f.png)
+![Inventory](https://user-images.githubusercontent.com/84578338/121816540-39754400-ccb7-11eb-91f0-a47ad6d3670b.png)
+![Crafting](https://user-images.githubusercontent.com/84578338/121816541-3a0dda80-ccb7-11eb-9b9e-d27c9ff38030.png)
+![DirtTexture](https://user-images.githubusercontent.com/84578338/121816542-3a0dda80-ccb7-11eb-904c-881ea4c95570.jpg)
+![GrassTexture](https://user-images.githubusercontent.com/84578338/121816543-3bd79e00-ccb7-11eb-8e8c-637620183806.jpg)
+![SandTexture](https://user-images.githubusercontent.com/84578338/121816545-3d08cb00-ccb7-11eb-8434-4c6532f73c05.jpg)
+
+
 <게임기능>
